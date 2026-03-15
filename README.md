@@ -20,7 +20,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
-
+![image](PQM.png)
  
 ## Program
 ```
@@ -56,6 +56,5 @@ else:
 ## Output :
 
 
-
 ## Result :
-
+Thus a program to find the average length and average waiting time of the system has been found using a python program
