@@ -55,6 +55,7 @@ else:
 
 ## Output :
 
+![image](output(1).png.png)
 
 ## Result :
 Thus a program to find the average length and average waiting time of the system has been found using a python program
